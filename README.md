@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Auf die Füllung kommt es an" der Class "Java
 </p>
 
 ## Flood Fill
-*Flood Fill* ist eine Applikation, bei der die Rekursion angewendet wird. Ziel ist das _Befüllen_ einer Fläche. Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Flood Fill* ist eine Applikation, bei der die Rekursion angewendet wird. Ziel ist das _Befüllen_ einer Fläche. Dieses Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
 
 ## Demo
 
