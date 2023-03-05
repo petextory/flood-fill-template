@@ -8,6 +8,6 @@ Template für die Einsendeaufgabe "Auf die Füllung kommt es an" der Class "Java
 
 ## Demo
 
-Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters-akademie.dev/">https://terminal.webmasters-akademie.dev/</a>
+Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters.dev/">https://terminal.webmasters.dev/</a>
 
 ![floodFill](https://user-images.githubusercontent.com/42392570/109522852-02d04080-7aaf-11eb-87bb-18f6203d2a48.gif)
